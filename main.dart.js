@@ -39643,7 +39643,7 @@ if(s.$2(a,k)>0){j.b[b]=k
 b=p}}j.b[b]=a}}
 A.Ic.prototype={
 J(a){var s=A.arX(null,B.f8,!0)
-return new A.wU(A.apR().d,"/welcome","Flutter Demo",s,!1,null)}}
+return new A.wU(A.apR().d,"/welcome","Cream Light",s,!1,null)}}
 A.pQ.prototype={
 J(a){var s=null,r=t.nk,q=t.p
 return A.kc(new A.fX("Dashboard",s),B.am,A.fM(new A.bE(B.nO,A.dW(A.a([A.arQ(A.arR(A.ff(15),B.ax,2),A.a([new A.fA(new A.dV(B.d6,s,s,B.mD,s,s,B.aW),B.Er),B.Le],r)),B.Kk,A.arQ(A.arR(A.ff(15),B.ax,2),A.a([new A.fA(new A.dV(B.d6,s,s,B.mD,s,s,B.aW),B.EE),new A.fA(s,A.a([new A.hY(A.fM(new A.bE(B.aY,A.cz("\nYou have "+$.bX().a+" songs in your selected storage.\n",s,s,s,s,s,s),s),s,s),s)],q))],r))],q),B.a3,B.ao,B.af),s),s,s),s,s)}}
